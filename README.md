@@ -50,7 +50,7 @@ Datetime Resampling Pandas: [Resample function of Pandas](https://towardsdatasci
 2. **[Store Sales - Time Series Forecasting | Kaggle](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/code)**
 3. **[Time series Basics : Exploring traditional TS | Kaggle](https://www.kaggle.com/code/jagangupta/time-series-basics-exploring-traditional-ts)**
 4. **[📈 Time Series forecasting with Prophet | Kaggle](https://www.kaggle.com/code/robikscube/time-series-forecasting-with-prophet)**
-5. **[https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda)**
+5. **[Kaggle Time Series Prediction tutorial with EDA](https://www.kaggle.com/code/kanncaa1/time-series-prediction-tutorial-with-eda)**
 6. **[Time Series For beginners with ARIMA | Kaggle](https://www.kaggle.com/code/freespirit08/time-series-for-beginners-with-arima)**
 1. **An End-to-End Project on Time Series Analysis and Forecasting with Python:  \
 [An End-to-End Project on Time Series Analysis and Forecasting with Python | by Susan Li | Towards Data Science](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)**
