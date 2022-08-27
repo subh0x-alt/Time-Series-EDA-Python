@@ -56,9 +56,7 @@ Datetime Resampling Pandas: [Resample function of Pandas](https://towardsdatasci
 [An End-to-End Project on Time Series Analysis and Forecasting with Python | by Susan Li | Towards Data Science](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)**
 2. **SQL to SARIMAX: How I navigate the first time-series analysis personal project for my portfolio: [SQL to SARIMAX: How I navigate the first time-series analysis personal project for my portfolio | by Irene Chang | Towards Data Science](https://towardsdatascience.com/sql-to-sarimax-how-i-navigate-the-first-time-series-analysis-personal-project-for-my-portfolio-1ed24cba2c52)**
 
-**Day-2: **
-
-
+**Day-2:**
 
 1. **Simple Moving Average**
 2. **Cumulative Moving Average**
@@ -66,4 +64,4 @@ Datetime Resampling Pandas: [Resample function of Pandas](https://towardsdatasci
 4. **Moving Average(Formula) → ACF [MA]**
 5. **Auto-regressive Model → PACF [AR]**
 
-**		AR + MA → ARMA Model. **
+**AR + MA → ARMA Model.**
