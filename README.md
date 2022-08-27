@@ -65,3 +65,7 @@ Datetime Resampling Pandas: [Resample function of Pandas](https://towardsdatasci
 5. **Auto-regressive Model → PACF [AR]**
 
 **AR + MA → ARMA Model.**
+
+
+
+Time Series Analysis Playlist: https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK
